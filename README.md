@@ -22,9 +22,9 @@ A função é analisada dentro de três intervalos diferentes: `[0,1]`, `[1,3.2]
 
 O **Exercício 6** resolve três equações diferentes usando o método da bisseção, com uma precisão de \(10^{-5}\):
 
-• x − 2^x = 0 para 0 ≤ x ≤ 1
-• e^x − x^2 + 3x − 2 = 0 para 0 ≤ x ≤ 1
-• 2xcos(2x) − (x + 1)^2 = 0 para −3 ≤ x ≤ −2 e 1 ≤ x ≤ 0
+1. x − 2^x = 0 para 0 ≤ x ≤ 1
+2. e^x − x^2 + 3x − 2 = 0 para 0 ≤ x ≤ 1
+3. 2xcos(2x) − (x + 1)^2 = 0 para −3 ≤ x ≤ −2 e 1 ≤ x ≤ 0
 
 #### 🔧 Estrutura do Código
 
